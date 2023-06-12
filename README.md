@@ -15,6 +15,6 @@ To run streamlit demo, simply run the following command
 streamlit run demo.py
 ```
 ## Demo interface
-![](https://hackmd.io/_uploads/HJl7oEVv2.jpg)
+![](demo_page-0001.jpg)
 
 
